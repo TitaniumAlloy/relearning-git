@@ -13,4 +13,10 @@ A main branch can split into other sub branches by clicking the drop down button
 Main branch is where the code that is published is located while the sub branches are where the edits are made before merging with the main branch.
 The branch you name will be a copy of the main branch and purpose of it is for editting/features/bug fixes etc.
 Right now I will commit these changes. This will be updated with notes to every changes I make for each repository.
+
+
+
+06/28/2021
+Adding chatting bot project made in java after checking for any issues soon.
+
 I will be adding programming and scripting projects as I learn.
