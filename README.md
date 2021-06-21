@@ -17,6 +17,21 @@ Right now I will commit these changes. This will be updated with notes to every 
 
 
 06/28/2021
-Adding chatting bot project made in java after checking for any issues soon.
+Adding chatting bot project made in java after checking for any issues soon. Update - project has been added but it is under a private repository for the time being.
+
+06/28/2021
+Tracks for the Java projects on this read me file for my own purpose and goal.:
+
+    Understand the syntax of Java and write well readable and efficient code
+    Work with professional development tools and GitHub
+    Apply the principles of object-oriented programming widely used in commercial development
+    Simplify your application design with functional programming
+    Use collections to effectively process data in your application
+    Use multicore processing to optimize the speed of your app
+    Use the Swing library for desktop development
+    Build an efficient web application with SpringBoot
+    Work with data formats like JSON and XML
+    Work with databases
+
 
 I will be adding programming and scripting projects as I learn.
