@@ -30,7 +30,7 @@ Petabyte 	PB 	10^15 B (1000 TB) 	Pebibyte 	PiB 	2^50 B (or 1024 TiB)
 
 The first one is a decimal-based system, which uses bytes in the powers of ten: kilobyte (10^3 bytes), megabyte (10^6 bytes), and gigabyte (10^9 bytes) and so on. These units are used by the International System of Units (SI). The second one is a binary-based system which uses bytes in the powers of two: kilobyte (2^10 bytes), megabyte (2^20 bytes), gigabyte (2^30 bytes) and so on. This system was actively used to describe computer memory.
 
-
+/* Organizing the top section into a new file will be implemented at a later date */
 
 06/28/2021
 Tracks for the Java projects on this read me file for my own purpose and goal.:
