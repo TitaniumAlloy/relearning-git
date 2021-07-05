@@ -19,6 +19,9 @@ Right now I will commit these changes. This will be updated with notes to every 
 06/28/2021
 Adding chatting bot project made in java after checking for any issues soon. Update - project has been added but it is under a private repository for the time being.
 
+7/4/2021
+Creating a repository for Java, and Powershell and adding th practice problems for java in that repository.
+
 06/28/2021
 Tracks for the Java projects on this read me file for my own purpose and goal.:
 
