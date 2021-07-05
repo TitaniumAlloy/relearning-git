@@ -20,20 +20,15 @@ Right now I will commit these changes. This will be updated with notes to every 
 Adding chatting bot project made in java after checking for any issues soon. Update - project has been added but it is under a private repository for the time being.
 
 7/4/2021
-Creating a repository for Java, and Powershell and adding th practice problems for java in that repository. Basic size table information:
-Kilobyte 	kB 	10^3 B (1000 B) 	Kibibyte 	KiB 	2^10 B (or 1024 B)
-Megabyte 	MB 	10^6 B (1000 kB) 	Mebibyte 	MiB 	2^20 B (or 1024 KiB)
-Gigabyte 	GB 	10^9 B (1000 MB) 	Gibibyte 	GiB 	2^30 B (or 1024 MiB)
-Terabyte 	TB 	10^12 B (1000 GB) 	Tebibyte 	TiB 	2^40 B (or 1024 GiB)
-Petabyte 	PB 	10^15 B (1000 TB) 	Pebibyte 	PiB 	2^50 B (or 1024 TiB)
-8 bits = 1 bytes
+Creating a repository for Java and Powershell and adding th practice problems for java in that repository.
 
-The first one is a decimal-based system, which uses bytes in the powers of ten: kilobyte (10^3 bytes), megabyte (10^6 bytes), and gigabyte (10^9 bytes) and so on. These units are used by the International System of Units (SI). The second one is a binary-based system which uses bytes in the powers of two: kilobyte (2^10 bytes), megabyte (2^20 bytes), gigabyte (2^30 bytes) and so on. This system was actively used to describe computer memory.
+7/5/2021
+Organization of repositories started. 
+Change folder names using browser mode of Github. ReadMe File has been udpated. 
+A seperate branch will be created when more information is added that doesnt' involve github is added. Repository name will be changed too.
 
-/* Organizing the top section into a new file will be implemented at a later date */
-
-06/28/2021
-Tracks for the Java projects on this read me file for my own purpose and goal.:
+06/28/2021 (Outdated - will be kept at the bottom of the file for reference)
+Tracks for the Java projects on this read me file for my own purpose and goal:
 
     Understand the syntax of Java and write well readable and efficient code
     Work with professional development tools and GitHub
