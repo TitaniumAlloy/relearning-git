@@ -13,4 +13,28 @@ A main branch can split into other sub branches by clicking the drop down button
 Main branch is where the code that is published is located while the sub branches are where the edits are made before merging with the main branch.
 The branch you name will be a copy of the main branch and purpose of it is for editting/features/bug fixes etc.
 Right now I will commit these changes. This will be updated with notes to every changes I make for each repository.
+
+
+
+06/28/2021
+Adding chatting bot project made in java after checking for any issues soon. Update - project has been added but it is under a private repository for the time being.
+
+7/4/2021
+Creating a repository for Java, and Powershell and adding th practice problems for java in that repository.
+
+06/28/2021
+Tracks for the Java projects on this read me file for my own purpose and goal.:
+
+    Understand the syntax of Java and write well readable and efficient code
+    Work with professional development tools and GitHub
+    Apply the principles of object-oriented programming widely used in commercial development
+    Simplify your application design with functional programming
+    Use collections to effectively process data in your application
+    Use multicore processing to optimize the speed of your app
+    Use the Swing library for desktop development
+    Build an efficient web application with SpringBoot
+    Work with data formats like JSON and XML
+    Work with databases
+
+
 I will be adding programming and scripting projects as I learn.
