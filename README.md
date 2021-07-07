@@ -27,6 +27,9 @@ Organization of repositories started.
 Change folder names using browser mode of Github. ReadMe File has been udpated. 
 A seperate branch will be created when more information is added that doesnt' involve github is added. Repository name will be changed too.
 
+7/6/2021
+Draft program for second project has been made and was successfull.
+
 06/28/2021 (Outdated - will be kept at the bottom of the file for reference)
 Tracks for the Java projects on this read me file for my own purpose and goal:
 
