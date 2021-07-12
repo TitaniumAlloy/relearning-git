@@ -30,6 +30,9 @@ A seperate branch will be created when more information is added that doesnt' in
 7/6/2021
 Draft program for second project has been made and was successfull.
 
+7/10/2021
+Additional digit printing script added for reference.
+
 06/28/2021 (Outdated - will be kept at the bottom of the file for reference)
 Tracks for the Java projects on this read me file for my own purpose and goal:
 
