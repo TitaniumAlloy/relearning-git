@@ -33,6 +33,21 @@ Draft program for second project has been made and was successfull.
 7/10/2021
 Additional digit printing script added for reference.
 
+7/11/2021 
+Buzz number project draft updated. More concise. While loop, do while, teranary operators has been added scripts have been added.
+
+7/12/2021
+Additional code done have been added from previous day.
+
+7/13/2021
+Branching information and coded added on relearning git repositories.
+
+7/14/2021
+branching codes added worked on added.
+
+7/15/2021
+branching variation using ternary operator added
+
 06/28/2021 (Outdated - will be kept at the bottom of the file for reference)
 Tracks for the Java projects on this read me file for my own purpose and goal:
 
