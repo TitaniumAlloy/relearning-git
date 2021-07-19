@@ -53,3 +53,8 @@ int n = (int) bigNum; // 276447232
 Known as type overflow.
 
 As you remember, in Java long is a 64-bit number, while int is 32-bit. When converting long to int the program just takes the last 32 bits to represent the new number. If the long contains a number less than or equal to Integer.MAX_VALUE you can convert it by casting without losing information. Otherwise, the result will be quite meaningless, although determined. That is why you shouldn't perform casting from a larger type to a smaller type unless you are absolutely sure that it is necessary, and that truncation will not interfere with your program.
+
+
+float f = 20d + 20.02f; // 1  d here converts the number to double
+long n = 10 + 2L;       // 2
+byte b = n + 5;         // 3
