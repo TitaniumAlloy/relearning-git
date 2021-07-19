@@ -3,6 +3,9 @@ Implicit casting flow chart below:
 byte -> short -> int -> long -> float -> double
                   ^
                  char
+                 
+boolean > char > byte > short > int > long > float > double
+char can only be implicitly cast to an int. no other type can be implicitly cast to char, even though byte have lesser size than char and short has the same size of char.
 
 Implicit casting example:
 int num = 100;
