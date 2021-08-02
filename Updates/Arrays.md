@@ -30,3 +30,44 @@ int n = ...; // n is a length of an array
 int[] numbers = new int[n];
 
 This form is useful when the number of elements is known before starting the program. When we create an instance of the array object with indicated length like [n]. Default everything is zero.
+
+The size of an array cannot be greater than Integer.MAX_VALUE. Actually, it is even slightly smaller than this value.
+
+int[] numbers; // declaration
+numbers = new int[n]; // instantiation and initialization with default values
+
+float[] floatNumbers; // declaration 
+floatNumbers = new float[] { 1.02f, 0.03f, 4f }; // instantiation and initialization
+
+
+//array length method
+int[] array = { 1, 2, 3, 4 }; // an array of numbers
+        
+int length = array.length; // number of elements of the array
+        
+System.out.println(length); // 4
+
+//error
+If we try to access a non-existing element by an index then a runtime exception occurs.
+
+The program throws ArrayIndexOutOfBoundsException.
+
+//Array.toString
+byte[] famousNumbers = { 0, 1, 2, 4, 8, 16, 32, 64 };
+String arrayAsString = Arrays.toString(famousNumbers); // [0, 1, 2, 4, 8, 16, 32, 64]
+System.out.println(arrayAsString);
+
+//Array.sort(array)
+long[] bigNumbers = { 200000000L, 400000000L, 100000000L, 300000000L }; // it's unsorted
+Arrays.sort(bigNumbers); // sorting whole array
+System.out.println(Arrays.toString(bigNumbers)); // [100000000, 200000000, 300000000, 400000000]
+
+
+//Arrays.equals
+System.out.println(Arrays.equals(numbers1, numbers2)); // it prints "false"
+System.out.println(Arrays.equals(numbers1, numbers3)); // it prints "true"
+
+//Arrays.fill
+// It takes an array, start index, end index (exclusive) and the value for filling the array
+Arrays.fill(characters, 0, size / 2, 'A'); 
+Arrays.fill(characters, size / 2, size, 'B');
