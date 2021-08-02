@@ -23,3 +23,10 @@ int[] array; // declaration form 1
 or after the name of an array variable:
 
 int array[]; // declaration form 2: less used in practice
+
+The most general way to create an array is to use the special keyword new and specify the necessary number of elements:
+
+int n = ...; // n is a length of an array
+int[] numbers = new int[n];
+
+This form is useful when the number of elements is known before starting the program. When we create an instance of the array object with indicated length like [n]. Default everything is zero.
