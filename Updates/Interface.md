@@ -38,4 +38,4 @@ void drawCurve(DrawingTool tool, Curve curve) {
 }
 
 
-Interface is the super/parent class blue print. 
+Interface is the super/parent class blue print. Decompose meaning you can put it clean in a private method
