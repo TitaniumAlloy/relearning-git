@@ -39,3 +39,38 @@ void drawCurve(DrawingTool tool, Curve curve) {
 
 
 Interface is the super/parent class blue print. Decompose meaning you can put it clean in a private method
+
+
+
+
+An interface can contain:
+
+    public constants;
+    abstract methods without an implementation (the keyword abstract is not required here);
+    default methods with implementation (the keyword default is required);
+    static methods with implementation (the keyword static is required);
+    private methods with implementation.
+
+
+
+
+interface Interface {
+        
+    int INT_CONSTANT = 0; // it's a constant, the same as public static final int INT_FIELD = 0
+        
+    void instanceMethod1();
+        
+    void instanceMethod2();
+        
+    static void staticMethod() {
+        System.out.println("Interface: static method");
+    }
+        
+    default void defaultMethod() {
+        System.out.println("Interface: default method. It can be overridden");
+    }
+
+    private void privateMethod() {
+        System.out.println("Interface: private methods in interfaces are acceptable but should have a body");
+    }
+}
